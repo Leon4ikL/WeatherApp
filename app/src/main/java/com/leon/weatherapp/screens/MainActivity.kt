@@ -1,7 +1,8 @@
-package com.leon.weatherapp
+package com.leon.weatherapp.screens
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.leon.weatherapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
