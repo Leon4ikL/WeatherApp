@@ -6,5 +6,5 @@
     android:id="@+id/fragment_container_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:name="com.leon.weatherapp.screens.HomeFragment"
+    android:name="com.leon.weatherapp.screens.home.HomeFragment"
     tools:layout="@layout/fragment_home" />

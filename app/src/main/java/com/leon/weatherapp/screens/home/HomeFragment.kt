@@ -1,4 +1,4 @@
-package com.leon.weatherapp.screens
+package com.leon.weatherapp.screens.home
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
